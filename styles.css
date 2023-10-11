@@ -6,15 +6,18 @@ body {
 
 
 .para, .nextpara{
-    color: hsl(239, 54%, 47%);
+    color: hsl(0, 0%, 100%);
     font-weight: 800;
     font-size: 22px;
 }
 
-.nextpara{
-    color:hsl(0, 0%, 0)
-}
 
 li{
     background-color: white;
+}
+
+h2{
+    color:black;
+    font-size: 22px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
