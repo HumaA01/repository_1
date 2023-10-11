@@ -1,5 +1,20 @@
 body {
-    background-color: cadetblue;
+    background-color: darkgreen;
     font-family:Arial, Helvetica, sans-serif;
 }
 
+
+
+.para, .nextpara{
+    color: hsl(239, 54%, 47%);
+    font-weight: 800;
+    font-size: 22px;
+}
+
+.nextpara{
+    color:hsl(0, 0%, 0)
+}
+
+li{
+    background-color: white;
+}
