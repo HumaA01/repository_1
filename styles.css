@@ -18,3 +18,7 @@ body {
 li{
     background-color: white;
 }
+
+footer{
+    background-color:hsl(129, 35%, 81%);
+}
